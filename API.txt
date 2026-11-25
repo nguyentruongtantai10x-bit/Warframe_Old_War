@@ -1,0 +1,1 @@
+& "C:\Users\Admin\.dotnet9\dotnet.exe" run --project "GameApi\GameApi.csproj" --no-launch-profile --urls "http://localhost:5080"

@@ -1,0 +1,39 @@
+# Unity generated
+/Library/
+/Temp/
+/Logs/
+/UserSettings/
+/Obj/
+/Bin/
+/obj/
+/bin/
+/.vs/
+/.idea/
+/.plastic/
+*.csproj.user
+*.suo
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+
+# Unity auto-generated solution/csproj files (regenerated on open)
+/Assembly-CSharp.csproj
+/Assembly-CSharp-Editor.csproj
+/Warframe_Old_War.slnx
+/ignore.conf
+
+# .NET API generated
+GameApi/bin/
+GameApi/obj/
+GameApi/tools/
+GameApi/.sdd/
+
+# Local scratch / verification artifacts
+/.superpowers/
+*.log
